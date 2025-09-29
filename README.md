@@ -1,8 +1,10 @@
-# React + Vite
+📰 News Monkey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+News Monkey is a React-based web application that fetches the latest news articles from a news API. It provides categorized news sections (like Business, Sports, Entertainment, and Technology) and includes a search feature to explore specific topics.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+📡 Fetches real-time news from an external API
+🗂️ Different sections/categories (Business, Sports, Entertainment, Health, Technology, etc.)
+🔍 Search option for finding articles by keyword
+📱 Responsive design for desktop and mobile
+⚡ Built with React and modern hooks (useEffect, useState)
