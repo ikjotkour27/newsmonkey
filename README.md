@@ -13,7 +13,7 @@ News Monkey is a React-based web application that fetches the latest news articl
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/screenshot1.png)
+![Home Page](./Screenshot2.png)
 
 ### 🗂️ Category View
-![Category View](./assets/screenshot2.png)
+![Category View](./Screenshot1.png)
